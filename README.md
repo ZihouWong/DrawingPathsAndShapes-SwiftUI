@@ -1,3 +1,7 @@
 # Drawing Paths and Shapes
 
-Use this project to code along with the [Drawing Paths and Shapes](https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes) tutorial.# DrawingPathsAndShapes-SwiftUI
+___
+
+## What's it?
+
+Part 4 of the SwiftUI tutorials. For more information, see [Drawing Paths and Shapes](https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes).
